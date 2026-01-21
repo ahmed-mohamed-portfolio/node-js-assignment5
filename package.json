@@ -2,5 +2,25 @@
   "dependencies": {
     "express": "^5.2.1",
     "mysql2": "^3.16.0"
-  }
+  },
+  "name": "js-assignment5",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmed-mohamed-portfolio/node-js-assignment5.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ahmed-mohamed-portfolio/node-js-assignment5/issues"
+  },
+  "homepage": "https://github.com/ahmed-mohamed-portfolio/node-js-assignment5#readme",
+  "description": ""
 }
